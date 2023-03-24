@@ -9,6 +9,6 @@ public class gg {
         System.out.println("8888htfhhghfghgfdgsfdgfsdgfd3333333333");
         System.out.println("000");
         System.out.println("hhh");
-        System.out.println("hhh2");
+        System.out.println("hhh1");
     }
 }
