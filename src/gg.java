@@ -7,5 +7,6 @@ public class gg {
         System.out.println("dasdasdasdsadasd");
         System.out.println("dasdasdasdsadasd11111111");
         System.out.println("gfdgsfdgfsdgfd3333333333555555555555");
+        System.out.println("999");
     }
 }
